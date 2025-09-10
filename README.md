@@ -1,5 +1,7 @@
 # Rescate-de-datos-criticos
 
+https://github.com/CalvillFourni/Rescate-de-datos-criticos.git
+
 🧠 Reto de Algoritmos: Rescate de Datos Críticos en una Infraestructura Comprometida
 Presentación:
 Bienvenidos, estimados alumnos. Este ejercicio simula una situación de emergencia tecnológica en la que deberán aplicar sus habilidades analíticas para diseñar una solución eficiente, lógica y bien comunicada.
